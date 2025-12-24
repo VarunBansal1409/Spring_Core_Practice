@@ -1,1 +1,1 @@
-# Spring_And_SpringBoot_Practice
+# Spring_Core_Practice
